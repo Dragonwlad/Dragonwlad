@@ -1,4 +1,4 @@
-<img src="images/me.JPG" align="right" />
+<img src="images/me.JPG" align="right" width="50"/>&nbsp;
 
 ## Dragonwlad
 
