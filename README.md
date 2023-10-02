@@ -2,8 +2,12 @@
 
 ## Dragonwlad
 
+# Hello! I'm a Python developer with an engineering background. I possess expertise in Python, Django, and DRF. I'm open to collaboration!
+
+
 - 🔭 I’m currently working on my project - Sneaker Shop
 - 🌱 I’m currently learning Python, Django, SQL
+
 
 languages and tools:
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
@@ -13,8 +17,6 @@ languages and tools:
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="50"/>&nbsp;
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-
-
 
 
 **Social Media:**
