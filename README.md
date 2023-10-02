@@ -19,6 +19,6 @@ languages and tools:
 
 
 **Social Media:**
-
+<a href="www.linkedin.com/in/vladislav-morelia" title="Python"><img src="icons/python.png" /></a>
 <a href="www.linkedin.com/in/vladislav-morelia" ><img src="icons/linkedin.png" /></a>
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dragonwlad/)
