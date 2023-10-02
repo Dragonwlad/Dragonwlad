@@ -1,6 +1,6 @@
 <img src="images/me.jpg" align="right" />
 
-## Hello! I'm a Python developer with an engineering background. I possess expertise in Python, Django, and DRF. I'm open to collaboration!
+## Dragonwlad
 
 - 🔭 I’m currently working on my project - Sneaker Shop
 - 🌱 I’m currently learning Python, Django, SQL
