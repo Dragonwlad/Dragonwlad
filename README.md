@@ -21,6 +21,4 @@ languages and tools:
 **Social Media:**
 <a href="https://www.linkedin.com/in/vladislav-morelia" ><img src="icons/linkedin.png" /></a>
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dragonwlad/)
-[![Tg](icons/tg.png)](https://t.me/Vladislav_Morelia)
-
-<a href="https://t.me/Vladislav_Morelia" title="Tg"><img src="icons/tg.png" width="50" /></a>
+<a href="https://t.me/Vladislav_Morelia" title="Tg"><img src="icons/tg.png" width="30" /></a>
