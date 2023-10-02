@@ -20,5 +20,5 @@ languages and tools:
 
 **Social Media:**
 
-[![LinkedIn](icons/linkedin.png)]([https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/vladislav-morelia/))
+<a href="https://www.linkedin.com/in/hussainweb/](https://www.linkedin.com/in/vladislav-morelia/" title="LinkedIn"><img src="icons/linkedin.png" /></a>
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dragonwlad/)
