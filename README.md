@@ -1,4 +1,3 @@
-<img src="images/me.JPG" align="right" width="250"/>&nbsp;
 
 ## Dragonwlad
 
