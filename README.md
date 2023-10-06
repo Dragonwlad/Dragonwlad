@@ -18,7 +18,7 @@ languages and tools:
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 
 
-**Social Media:**
+**Contacts:**
 <a href="https://www.linkedin.com/in/vladislav-morelia" ><img src="icons/linkedin.png" /></a>
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dragonwlad/)
 <a href="https://t.me/Vladislav_Morelia" title="Tg"><img src="icons/tg.png" width="35" /></a>
