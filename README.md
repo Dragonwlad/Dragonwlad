@@ -1,10 +1,7 @@
 
 ## Dragonwlad
 
-Hello! I'm a Python developer with an engineering background. I possess expertise in Python, Django, and DRF. I'm open to collaboration!
-
-- 🌱 I’m currently learning Python, Django, SQL
-
+Hello! I'm a Python developer with an engineering background.
 
 languages and tools:
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
